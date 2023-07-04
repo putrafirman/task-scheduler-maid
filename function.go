@@ -7,7 +7,7 @@ import (
 
 	"github.com/labstack/echo/v4"
 
-	"putrafirman.com/playground/hybrid-serverless/server"
+	"putrafirman.com/playground/task-scheduler-maid/server"
 )
 
 func init() {
